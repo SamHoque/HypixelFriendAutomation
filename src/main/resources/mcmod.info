@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rabfriendtools",
+  "name": "Friend Tools",
+  "description": "Friend Tools Plugin For Hypixel.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Rab, Pau101"],
+  "credits": "Rab for making this plugin, Pau101 for writing the Chat Logger",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

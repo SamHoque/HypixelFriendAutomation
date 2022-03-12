@@ -1,0 +1,6 @@
+rabfriendtools.enabled=Enabled
+rabfriendtools.disabled=Disabled
+rabfriendtools.mode.accept=Accept
+rabfriendtools.mode.deny=Deny
+rabfriendtools.mode.ignore=Ignore
+rabfriendtools.modeDisplay=Mode: %s
